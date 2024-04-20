@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact kommt"
 order: 1
 in_menu: true
 ---
